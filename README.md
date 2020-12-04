@@ -13,14 +13,14 @@ The pacemaker design project is a term assignment which comprises the majority o
 [More information on the Device  Control Monitor.](https://github.com/amosyu2000/pacemaker-api)
 
 ## Toolboxes Used
--MATLAB®
--Simulink®
--Embedded Coder®
--Fixed-Point DesignerTM MATLAB CoderTM
--Simulink® CheckTM
--Simulink CoderTM
--Simulink CoverageTM
--Simulink Design VerifierTM Simulink Desktop Real-TimeTM Simulink TestTM
--Stateflow®
--Simulink® Coder Support Package for NXP FRDM-K64F -> Segger’s J-Link OpenSDA V2 firmware
--DSP Toolbox
+- MATLAB®
+- Simulink®
+- Embedded Coder®
+- Fixed-Point DesignerTM MATLAB CoderTM
+- Simulink® CheckTM
+- Simulink CoderTM
+- Simulink CoverageTM
+- Simulink Design VerifierTM Simulink Desktop Real-TimeTM Simulink TestTM
+- Stateflow®
+- Simulink® Coder Support Package for NXP FRDM-K64F -> Segger’s J-Link OpenSDA V2 firmware
+- DSP Toolbox
