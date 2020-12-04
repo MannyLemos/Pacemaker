@@ -27,3 +27,10 @@ The pacemaker design project is a term assignment which comprises the majority o
 
 ## The Model
 ![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%209.59.32%20AM.png)
+
+## Monitored Layer
+![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%209.59.05%20AM.png)
+# Initialization Stateflow 
+![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%2010.00.17%20AM.png)
+# Send Parameters to DCM Function
+![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%2010.00.58%20AM.png)
