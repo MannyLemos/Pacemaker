@@ -9,7 +9,7 @@ Group Members
 - [Manuel Lemos](https://github.com/MannyLemos) (lemosm1)
 
 ## About
-The pacemaker design project is a term assignment which comprises the majority of the SFWRENG 3K04 Software Development course. This site will host both the Pacemaker Design  which is programmed using simulink and built on the FRDM-K64F ARM  development board.  The pacemaker's Device Controller-Monitor is built using Express, MongoDB, and Node and is hosted on Google App Engine along with MongoDB Atlas.
+The pacemaker design project is a term assignment which comprises the majority of the SFWRENG 3K04 Software Development course. This site will host the Pacemaker Design  which is programmed using simulink and built on the FRDM-K64F ARM  development board.  The pacemaker's Device Controller-Monitor is built using Express, MongoDB, and Node and is hosted on Google App Engine along with MongoDB Atlas.
 [More information on the Device  Control Monitor.](https://github.com/amosyu2000/pacemaker-api)
 
 ## Toolboxes Used
