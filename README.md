@@ -25,12 +25,12 @@ The pacemaker design project is a term assignment which comprises the majority o
 - Simulink® Coder Support Package for NXP FRDM-K64F -> Segger’s J-Link OpenSDA V2 firmware
 - DSP Toolbox
 
-## The Model
+# The Model
 ![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%209.59.32%20AM.png)
 
 ## Monitored Layer
 ![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%209.59.05%20AM.png)
-# Initialization Stateflow 
+### Initialization Stateflow 
 ![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%2010.00.17%20AM.png)
-# Send Parameters to DCM Function
+### Send Parameters to DCM Function
 ![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%2010.00.58%20AM.png)
