@@ -24,3 +24,5 @@ The pacemaker design project is a term assignment which comprises the majority o
 - Stateflow®
 - Simulink® Coder Support Package for NXP FRDM-K64F -> Segger’s J-Link OpenSDA V2 firmware
 - DSP Toolbox
+
+## The Model
