@@ -30,23 +30,23 @@ The pacemaker design project is a term assignment which comprises the majority o
 ![alt_text](https://github.com/MannyLemos/Pacemaker/blob/main/screenshots/Screen%20Shot%202020-12-04%20at%209.59.32%20AM.png)
 
 ## Monitored Layer
-![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%209.59.05%20AM.png)
+![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/screenshots/Screen%20Shot%202020-12-04%20at%209.59.05%20AM.png)
 ### Initialization Stateflow 
-![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%2010.00.17%20AM.png)
+![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/screenshots/Screen%20Shot%202020-12-04%20at%2010.00.17%20AM.png)
 ### Send Parameters to DCM Function
-![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%2010.00.58%20AM.png)
+![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/screenshots/Screen%20Shot%202020-12-04%20at%2010.00.58%20AM.png)
 
 ## Stateflow Layer
-![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%209.59.43%20AM.png)
+![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/screenshots/Screen%20Shot%202020-12-04%20at%209.59.43%20AM.png)
 ### Rate Adaptability Stateflow
-![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%2010.01.56%20AM.png)
+![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/screenshots/Screen%20Shot%202020-12-04%20at%2010.01.56%20AM.png)
 ### Pacemaker Modes Stateflow
-![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%2010.16.51%20AM.png)
+![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/screenshots/Screen%20Shot%202020-12-04%20at%2010.16.51%20AM.png)
 #### DOOR Mode Implementation
-![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%2010.17.35%20AM.png)
+![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/screenshots/Screen%20Shot%202020-12-04%20at%2010.17.35%20AM.png)
 
 ## Output Layer
-![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%2010.18.02%20AM.png)
+![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/screenshots/Screen%20Shot%202020-12-04%20at%2010.18.02%20AM.png)
 ### Digital Write Blocks
-![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/Screen%20Shot%202020-12-04%20at%2010.18.16%20AM.png)
+![alt text](https://github.com/MannyLemos/Pacemaker/blob/main/screenshots/Screen%20Shot%202020-12-04%20at%2010.18.16%20AM.png)
 
