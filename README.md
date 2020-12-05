@@ -27,7 +27,7 @@ The pacemaker design project is a term assignment which comprises the majority o
 
 # The Model
 
-text](https://github.com/MannyLemos/Pacemaker/blob/screenshots/Screen%20Shot%202020-12-04%20at%209.59.32%20AM.png?raw=true)
+![alt_text](https://github.com/MannyLemos/Pacemaker/blob/screenshots/Screen%20Shot%202020-12-04%20at%209.59.32%20AM.png?raw=true)
 ![alt text](https://github.com/MannyLemos/Pacemaker/blob//screenshots/Screen%20Shot%202020-12-04%20at%209.59.32%20AM.png)
 
 ## Monitored Layer
