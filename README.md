@@ -26,7 +26,7 @@ The pacemaker design project is a term assignment which comprises the majority o
 - DSP Toolbox
 
 # The Model
-![alt text](https://github.com/MannyLemos/Pacemaker/screesnshots/blob/main/Screen%20Shot%202020-12-04%20at%209.59.32%20AM.png)
+![alt text](https://github.com/MannyLemos/Pacemaker/screesnshots/blob/main/Screen Shot 2020-12-04 at 10.00.17 AM.png)
 
 ![alt text](https://github.com/MannyLemos/Pacemaker/screenshots/blob/main/Screen%20Shot%202020-12-04%20at%209.59.32%20AM.png)
 
