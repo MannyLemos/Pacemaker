@@ -1,0 +1,47 @@
+fsl_uart_irq.o: \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/src/fsl_uart_irq.c \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/drivers/inc/fsl_uart_driver.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/osa/inc/fsl_os_abstraction.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/osa/inc/fsl_os_abstraction_bm.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_uart_hal.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/fsl_device_registers.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cm4.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cmInstr.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cmFunc.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cmSimd.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/startup/system_MK64F12.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12_extension.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/fsl_bitaccess.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12_features.h
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/drivers/inc/fsl_uart_driver.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/osa/inc/fsl_os_abstraction.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/osa/inc/fsl_os_abstraction_bm.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_uart_hal.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/fsl_device_registers.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cm4.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cmInstr.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cmFunc.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cmSimd.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/startup/system_MK64F12.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12_extension.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/fsl_bitaccess.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12_features.h:

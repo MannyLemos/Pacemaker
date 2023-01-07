@@ -1,0 +1,8 @@
+RTX_Conf_CM.o: \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/3P.instrset/cmsis.instrset/CMSIS/RTOS/RTX/Templates/RTX_Conf_CM.c \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/3P.instrset/cmsis.instrset/CMSIS/RTOS/RTX/INC/cmsis_os.h \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/3P.instrset/cmsis.instrset/CMSIS/RTOS/RTX/INC/RTX_CM_lib.h
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/3P.instrset/cmsis.instrset/CMSIS/RTOS/RTX/INC/cmsis_os.h:
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/3P.instrset/cmsis.instrset/CMSIS/RTOS/RTX/INC/RTX_CM_lib.h:

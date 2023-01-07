@@ -1,0 +1,95 @@
+board.o: \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/src/board.c \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/board.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/fsl_device_registers.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cm4.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cmInstr.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cmFunc.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cmSimd.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/startup/system_MK64F12.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12_extension.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/fsl_bitaccess.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12_features.h \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/pin_mux.h \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/gpio_pins.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/drivers/inc/fsl_gpio_driver.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_port_hal.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_gpio_hal.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/osa/inc/fsl_os_abstraction.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/osa/inc/fsl_os_abstraction_bm.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/system/inc/fsl_clock_manager.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_sim_hal.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/../src/sim/MK64F12/fsl_sim_hal_MK64F12.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/system/inc/../src/clock/MK64F12/fsl_clock_MK64F12.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_mcg_hal.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_mcg_hal_modes.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_mcg_hal.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_osc_hal.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_smc_hal.h \
+ /Users/mannylemos/Freescale/KSDK_1.2.0/platform/utilities/inc/fsl_debug_console.h \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/pin_mux.h
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/board.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/fsl_device_registers.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cm4.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cmInstr.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cmFunc.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include/core_cmSimd.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/startup/system_MK64F12.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12_extension.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/fsl_bitaccess.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12_features.h:
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/pin_mux.h:
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/gpio_pins.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/drivers/inc/fsl_gpio_driver.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_port_hal.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_gpio_hal.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include/MK64F12.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/osa/inc/fsl_os_abstraction.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/osa/inc/fsl_os_abstraction_bm.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/system/inc/fsl_clock_manager.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_sim_hal.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/../src/sim/MK64F12/fsl_sim_hal_MK64F12.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/system/inc/../src/clock/MK64F12/fsl_clock_MK64F12.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_mcg_hal.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_mcg_hal_modes.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_mcg_hal.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_osc_hal.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc/fsl_smc_hal.h:
+
+/Users/mannylemos/Freescale/KSDK_1.2.0/platform/utilities/inc/fsl_debug_console.h:
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/pin_mux.h:

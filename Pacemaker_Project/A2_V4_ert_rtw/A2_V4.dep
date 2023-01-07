@@ -1,0 +1,56 @@
+A2_V4.o: \
+ /Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/A2_V4_ert_rtw/A2_V4.c \
+ /Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/A2_V4_ert_rtw/A2_V4.h \
+ /Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/rtwtypes.h \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_digitalIO.h \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_SVD.h \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_AnalogIn.h \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_SCI.h \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_PWM.h \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_I2C.h \
+ /Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/A2_V4_ert_rtw/A2_V4_types.h \
+ /Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_SVD.h \
+ /Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/A2_V4_ert_rtw/DCM_SEND_private.h \
+ /Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/DCM_SEND.h \
+ /Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/rtwtypes.h \
+ /Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/rt_nonfinite.h \
+ /Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/rtGetInf.h \
+ /Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/rt_nonfinite.h \
+ /Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/A2_V4_ert_rtw/A2_V4_private.h \
+ /Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/rt_roundd_snf.h
+
+/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/A2_V4_ert_rtw/A2_V4.h:
+
+/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/rtwtypes.h:
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_digitalIO.h:
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_SVD.h:
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_AnalogIn.h:
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_SCI.h:
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_PWM.h:
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_I2C.h:
+
+/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/A2_V4_ert_rtw/A2_V4_types.h:
+
+/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include/MW_SVD.h:
+
+/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/A2_V4_ert_rtw/DCM_SEND_private.h:
+
+/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/DCM_SEND.h:
+
+/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/rtwtypes.h:
+
+/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/rt_nonfinite.h:
+
+/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/rtGetInf.h:
+
+/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/rt_nonfinite.h:
+
+/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/A2_V4_ert_rtw/A2_V4_private.h:
+
+/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils/rt_roundd_snf.h:

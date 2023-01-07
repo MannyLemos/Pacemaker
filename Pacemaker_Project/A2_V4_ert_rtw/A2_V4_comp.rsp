@@ -1,0 +1,28 @@
+-I/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04
+-I/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/freedomk64f/include
+-I/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/A2_V4_ert_rtw
+-I/Applications/MATLAB_R2020a.app/extern/include
+-I/Applications/MATLAB_R2020a.app/simulink/include
+-I/Applications/MATLAB_R2020a.app/rtw/c/src
+-I/Applications/MATLAB_R2020a.app/rtw/c/src/ext_mode/common
+-I/Applications/MATLAB_R2020a.app/rtw/c/ert
+-I/Users/mannylemos/Desktop/MechTron\ 3K04\ /Matlab\ 3K04/slprj/ert/_sharedutils
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/platform/CMSIS/Include
+-I/Applications/MATLAB_R2020a.app/rtw/c/src/ext_mode/serial
+-I/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/armcortexmbase/scheduler/include
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/include
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/platform/drivers/inc
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/platform/devices/MK64F12/startup
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/platform/hal/inc
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/platform/osa/inc
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/platform/system/inc
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/platform/system/src/clock/MK64F12
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/platform/utilities/inc
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/platform/utilities/inc/virtual_com
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/middleware/tcpip/lwip/port
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/middleware/tcpip/lwip/src/include
+-I/Users/mannylemos/Freescale/KSDK_1.2.0/middleware/tcpip/lwip/src/include/ipv4
+-I/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/armcortexmbase/cmsis_rtos_rtx/include
+-I/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/3P.instrset/cmsis.instrset/CMSIS/RTOS/RTX/INC
+-I/Users/mannylemos/Documents/MATLAB/SupportPackages/R2020a/3P.instrset/cmsis.instrset/CMSIS/RTOS/RTX/SRC
